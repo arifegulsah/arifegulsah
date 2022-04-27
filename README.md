@@ -13,6 +13,8 @@ I am Gülşah, a software engineering student, from Turkey. I really enjoy AI te
 [<img align="left" alt="celikelomerr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<br />
 
 [![Gulsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifegulsah)](https://github.com/anuraghazra/github-readme-stats)
 
