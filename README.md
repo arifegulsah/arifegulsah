@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Gülşah from Turkey, and I am a software engineering student. I really enjoy AI technology and am currently working on Python🐍 and its libraries.
+
+[![Gulsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifegulsah)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **arifegulsah/arifegulsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
