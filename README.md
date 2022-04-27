@@ -2,10 +2,10 @@
 
 I am Gülşah, a software engineering student, from Turkey. I really enjoy AI technology and am currently working on Python🐍 and its libraries.
 
-🔭 I’m currently working on Image and Sound Processing. 
-🌱 I'm currently learning more about Machine Learning techniques with Keras, Tensorflow and OpenCV. 
-📫 How to reach me: arifegulsaherol@gmail.com 
-⚡ Fun Fact: I love learning new languages, traveling and hiking.
+- 🔭 I’m currently working on Image and Sound Processing. 
+- 🌱 I'm currently learning more about Machine Learning techniques with Keras, Tensorflow and OpenCV. 
+- 📫 How to reach me: arifegulsaherol@gmail.com 
+- ⚡ Fun Fact: I love learning new languages, traveling and hiking.
 
 
 [![Gulsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifegulsah)](https://github.com/anuraghazra/github-readme-stats)
