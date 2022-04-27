@@ -21,7 +21,7 @@ I am Gülşah, a software engineering student, from Turkey. I really enjoy AI te
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifegulsah)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifegulsah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Gulsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifegulsah)](https://github.com/anuraghazra/github-readme-stats)
