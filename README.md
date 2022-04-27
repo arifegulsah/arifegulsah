@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Gülşah, a software engineering student, from Turkey. I really enjoy AI technology and am currently working on Python🐍 and its libraries.
+I am Gülşah, a software engineering student, from Turkey. I really enjoy AI technology and am interested in Python🐍 and its libraries.
 
 - 🔭 I’m currently working on Image and Sound Processing. 
 - 🌱 I'm currently learning more about Machine Learning techniques with Keras, Tensorflow and OpenCV. 
