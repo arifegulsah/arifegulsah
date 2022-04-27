@@ -14,6 +14,11 @@ I am Gülşah, a software engineering student, from Turkey. I really enjoy AI te
 
 <br />
 <br />
+
+![](https://komarev.com/ghpvc/?username=arifegulsah)
+
+
+<br />
 <br />
 
 [![Gulsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifegulsah)](https://github.com/anuraghazra/github-readme-stats)
