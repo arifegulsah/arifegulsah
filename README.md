@@ -8,7 +8,15 @@ I am Gülşah, a software engineering student, from Turkey. I really enjoy AI te
 - ⚡ Fun Fact: I love learning new languages, traveling and hiking.
 
 
+### Connect with me:
+[<img align="left" alt="omercelikel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [![Gulsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifegulsah)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/arife-g%C3%BCl%C5%9Fah-erol-969798220/
 
 <!--
 **arifegulsah/arifegulsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
