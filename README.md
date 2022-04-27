@@ -28,7 +28,7 @@ I am Gülşah, a software engineering student, from Turkey. I really enjoy AI te
 [![Gulsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifegulsah)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=arife.gulsah.44&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=arife.gulsah.44&cover_image=true&theme=novatorem&bar_color=da161f&bar_color_cover=true)]]
 
 [linkedin]: https://www.linkedin.com/in/arife-g%C3%BCl%C5%9Fah-erol-969798220/
 [instagram]: https://www.instagram.com/a.gulsaherol/
