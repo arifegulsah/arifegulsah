@@ -4,6 +4,7 @@ I am Gülşah, a software engineering student, from Turkey. I really enjoy AI te
 
 - 🔭 I’m currently working on Image and Sound Processing. 
 - 🌱 I'm currently learning more about Machine Learning techniques with Keras, Tensorflow and OpenCV. 
+- 🥅 2022 Goals: Specializing in Machine Learning and Python.
 - 📫 How to reach me: arifegulsaherol@gmail.com 
 - ⚡ Fun Fact: I love learning new languages, traveling and hiking.
 
