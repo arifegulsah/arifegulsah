@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Gülşah, a software engineering student, from Turkey. I really enjoy AI technology and am interested in Python🐍 and its libraries.
+I am Gülşah, a software engineering student, from Turkey. 
 
 - 📖 To reach my articles published on Medium: https://medium.com/@arifegulsaherol
 - 📫 How to reach me: arifegulsaherol@gmail.com 
