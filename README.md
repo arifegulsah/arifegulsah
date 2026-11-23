@@ -1,51 +1,43 @@
 ### Hi there 👋
 
-I am Gülşah, a software engineering student, from Turkey. 
+I am **Gülşah**, a Ph.D. student in Computer Engineering at [Gazi University](https://mf-bm.gazi.edu.tr/), researching **AI-enabled network security**. My Master's thesis focused on large language model-based intrusion detection in Software-Defined IoT networks.
 
-- 📖 To reach my articles published on Medium: https://medium.com/@arifegulsaherol
-- 📫 How to reach me: arifegulsaherol@gmail.com 
-- ⚡ Fun Fact: I love traveling, cooking and hiking.
+I am always happy to connect on AI, network security and next-generation networks.
 
+🌐 **Website:** [arifegulsah.github.io](https://arifegulsah.github.io)
 
-### Connect with me:
-[<img align="left" alt="arifegulsaherol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="arifegulsaherol | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+#### 🔬 Research Interests
 
-<br />
-<br />
+Network security · Intrusion detection · Large language models · Software-defined networking · IoT
 
+#### 📄 Recent Publications
 
-[linkedin]: https://www.linkedin.com/in/arife-g%C3%BCl%C5%9Fah-erol-969798220/
-[instagram]: https://www.instagram.com/a.gulsaherol/
+- **SentineLLM: An LLM-based intrusion detection framework for software-defined internet of things**, *Expert Systems with Applications*, 2026 · [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417426031453)
+- **LLMs for Intrusion Detection Systems: A Review**, *ISCTürkiye 2025* · [Link](https://ieeexplore.ieee.org/abstract/document/11224813)
+- **Awareness of Gamification as a Non-Pharmacological Intervention in Sleep Health Research: A Systematic Literature Review**, *UBMK 2024*
+- **Sleepless in the Code: Exploring the Relationship Between Occupational Anxiety and Sleep Patterns in the Software Industry**, *EuroSPI 2024*
 
-<!--
-**arifegulsah/arifegulsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+All publications: [Google Scholar](https://scholar.google.com/citations?user=7DnyuuoAAAAJ)
 
-Here are some ideas to get you started:
+#### 🛠️ Projects on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| Repository | Description |
+|---|---|
+| [Detection-of-Skin-Diseases-with-CNN](https://github.com/arifegulsah/Detection-of-Skin-Diseases-with-CNN) | Bachelor's graduation project: skin disease detection with a CNN and an ASP.NET web app |
+| [Music-and-Audio-MachineLearning-Projects](https://github.com/arifegulsah/Music-and-Audio-MachineLearning-Projects) | Audio feature extraction, genre classification with an MLP and music generation with an LSTM |
+| [Machine-Learning-Practice](https://github.com/arifegulsah/Machine-Learning-Practice) | Machine learning practice projects: regression and classification |
+| [Game-Development-Projects](https://github.com/arifegulsah/Game-Development-Projects) | 2D and 3D games made with Unity and C# |
+| [English-With-Foxy](https://github.com/arifegulsah/English-With-Foxy) | TÜBİTAK 2242 project website offering free English lessons to children |
+| [Miscellaneous](https://github.com/arifegulsah/Miscellaneous) | Small projects and experiments |
 
+#### 📫 Connect with Me
 
+[![Website](https://img.shields.io/badge/Website-402599?style=flat&logo=githubpages&logoColor=white)](https://arifegulsah.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7DnyuuoAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arife-g%C3%BCl%C5%9Fah-erol)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1110-816X)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Arife-Erol-2)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@arifegulsaherol)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arifegulsaherol@gazi.edu.tr)
 
-![](https://komarev.com/ghpvc/?username=arifegulsah)
-<br />
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arife.gulsah.44&cover_image=true&theme=novatorem&bar_color=da161f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=arife.gulsah.44&redirect=true)
-
----
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifegulsah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Gulsah's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifegulsah)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
--->
+⚡ **Fun fact:** I love traveling, cooking and hiking.
