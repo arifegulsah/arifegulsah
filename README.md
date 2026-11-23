@@ -12,10 +12,11 @@ I am always happy to connect on AI, network security and next-generation network
 
 #### 📄 Recent Publications
 
+- **Machine Learning and Deep Learning-Based DDoS Detection in SDN Environments**, *ISCTürkiye 2026* · [Link](https://ieeexplore.ieee.org/abstract/document/11779188/)
 - **SentineLLM: An LLM-based intrusion detection framework for software-defined internet of things**, *Expert Systems with Applications*, 2026 · [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417426031453)
 - **LLMs for Intrusion Detection Systems: A Review**, *ISCTürkiye 2025* · [Link](https://ieeexplore.ieee.org/abstract/document/11224813)
-- **Awareness of Gamification as a Non-Pharmacological Intervention in Sleep Health Research: A Systematic Literature Review**, *UBMK 2024*
-- **Sleepless in the Code: Exploring the Relationship Between Occupational Anxiety and Sleep Patterns in the Software Industry**, *EuroSPI 2024*
+- **Awareness of Gamification as a Non-Pharmacological Intervention in Sleep Health Research: A Systematic Literature Review**, *UBMK 2024* · [Link](https://ieeexplore.ieee.org/document/10773497/)
+- **Sleepless in the Code: Exploring the Relationship Between Occupational Anxiety and Sleep Patterns in the Software Industry**, *EuroSPI 2024* · [Link](https://link.springer.com/chapter/10.1007/978-3-031-71139-8_3)
 
 All publications: [Google Scholar](https://scholar.google.com/citations?user=7DnyuuoAAAAJ)
 
