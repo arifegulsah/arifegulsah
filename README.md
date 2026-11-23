@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I am **Gülşah**, a Ph.D. student in Computer Engineering at [Gazi University](https://mf-bm.gazi.edu.tr/), researching **AI-enabled network security**. My Master's thesis focused on large language model-based intrusion detection in Software-Defined IoT networks.
+I am **Gülşah**, a Ph.D. student in Computer Engineering, researching **AI-enabled network security**. My Master's thesis focused on large language model-based intrusion detection in Software-Defined IoT networks.
 
 I am always happy to connect on AI, network security and next-generation networks.
 
 🌐 **Website:** [arifegulsah.github.io](https://arifegulsah.github.io)
 
-#### 🔬 Research Interests
+### 🔬 Research Interests
 
-Network security · Intrusion detection · Large language models · Software-defined networking · IoT
+#### Network security · Intrusion detection · Large language models · Software-defined networking · IoT
 
 #### 📄 Recent Publications
 
@@ -18,17 +18,6 @@ Network security · Intrusion detection · Large language models · Software-def
 - **Sleepless in the Code: Exploring the Relationship Between Occupational Anxiety and Sleep Patterns in the Software Industry**, *EuroSPI 2024*
 
 All publications: [Google Scholar](https://scholar.google.com/citations?user=7DnyuuoAAAAJ)
-
-#### 🛠️ Projects on GitHub
-
-| Repository | Description |
-|---|---|
-| [Detection-of-Skin-Diseases-with-CNN](https://github.com/arifegulsah/Detection-of-Skin-Diseases-with-CNN) | Bachelor's graduation project: skin disease detection with a CNN and an ASP.NET web app |
-| [Music-and-Audio-MachineLearning-Projects](https://github.com/arifegulsah/Music-and-Audio-MachineLearning-Projects) | Audio feature extraction, genre classification with an MLP and music generation with an LSTM |
-| [Machine-Learning-Practice](https://github.com/arifegulsah/Machine-Learning-Practice) | Machine learning practice projects: regression and classification |
-| [Game-Development-Projects](https://github.com/arifegulsah/Game-Development-Projects) | 2D and 3D games made with Unity and C# |
-| [English-With-Foxy](https://github.com/arifegulsah/English-With-Foxy) | TÜBİTAK 2242 project website offering free English lessons to children |
-| [Miscellaneous](https://github.com/arifegulsah/Miscellaneous) | Small projects and experiments |
 
 #### 📫 Connect with Me
 
